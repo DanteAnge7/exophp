@@ -1,0 +1,21 @@
+.table {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+
+.table div{
+    width: 100%;
+}
+
+header {
+    background-color: rgb(74, 14, 14);
+    
+}
